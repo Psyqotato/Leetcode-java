@@ -2,12 +2,10 @@ class Solution {
     int nthFromEnd = 0;
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode p = head;
-        ListNode temp = p.next;
-        if (p.next != null) {
-            p.next = removeNthFromEnd(temp, n);
+        if (head.next != null) {
+            head.next = removeNthFromEnd(head.next, n);
         }
         nthFromEnd++;
-        return (nthFromEnd == n) ? temp : p;
+        return (nthFromEnd == n) ? head.next : head;
     }
 }
