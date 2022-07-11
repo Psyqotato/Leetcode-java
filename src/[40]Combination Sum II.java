@@ -14,7 +14,7 @@ class Solution {
     public void trackResult (int[] candidates, int i, int target, List<Integer> temp, List<List<Integer>> result) {
         int j = i;
         if (target == 0 && !result.contains(temp)) {
-            result.add(new LinkedList<>(temp));
+            result.add(new ArrayList<>(temp));
         }
         if (j >= candidates.length || target < candidates[j]) return;
         while (j < candidates.length && target - candidates[j] >= 0) {
