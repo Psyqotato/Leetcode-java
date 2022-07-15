@@ -674,6 +674,50 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[66]Plus One.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[66]Plus One.md" />
+              <option name="frontendQuestionId" value="leetcode.com66" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[66]Plus One.java" />
+              <option name="titleSlug" value="plus-one" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[67]Add Binary.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[67]Add Binary.md" />
+              <option name="frontendQuestionId" value="leetcode.com67" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[67]Add Binary.java" />
+              <option name="titleSlug" value="add-binary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[68]Text Justification.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[68]Text Justification.md" />
+              <option name="frontendQuestionId" value="leetcode.com68" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[68]Text Justification.java" />
+              <option name="titleSlug" value="text-justification" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[69]Sqrt(x).java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[69]Sqrt(x).md" />
+              <option name="frontendQuestionId" value="leetcode.com69" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[69]Sqrt(x).java" />
+              <option name="titleSlug" value="sqrtx" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[6]Zigzag Conversion.java">
           <value>
             <LeetcodeEditor>
@@ -682,6 +726,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[6]Zigzag Conversion.java" />
               <option name="titleSlug" value="zigzag-conversion" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[70]Climbing Stairs.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[70]Climbing Stairs.md" />
+              <option name="frontendQuestionId" value="leetcode.com70" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[70]Climbing Stairs.java" />
+              <option name="titleSlug" value="climbing-stairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[71]Simplify Path.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[71]Simplify Path.md" />
+              <option name="frontendQuestionId" value="leetcode.com71" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[71]Simplify Path.java" />
+              <option name="titleSlug" value="simplify-path" />
             </LeetcodeEditor>
           </value>
         </entry>
