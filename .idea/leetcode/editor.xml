@@ -190,6 +190,50 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[116]Populating Next Right Pointers in Each Node.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[116]Populating Next Right Pointers in Each Node.md" />
+              <option name="frontendQuestionId" value="leetcode.com116" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[116]Populating Next Right Pointers in Each Node.java" />
+              <option name="titleSlug" value="populating-next-right-pointers-in-each-node" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[117]Populating Next Right Pointers in Each Node II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[117]Populating Next Right Pointers in Each Node II.md" />
+              <option name="frontendQuestionId" value="leetcode.com117" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[117]Populating Next Right Pointers in Each Node II.java" />
+              <option name="titleSlug" value="populating-next-right-pointers-in-each-node-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[118]Pascal's Triangle.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[118]Pascal's Triangle.md" />
+              <option name="frontendQuestionId" value="leetcode.com118" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[118]Pascal's Triangle.java" />
+              <option name="titleSlug" value="pascals-triangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[119]Pascal's Triangle II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[119]Pascal's Triangle II.md" />
+              <option name="frontendQuestionId" value="leetcode.com119" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[119]Pascal's Triangle II.java" />
+              <option name="titleSlug" value="pascals-triangle-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[11]Container With Most Water.java">
           <value>
             <LeetcodeEditor>
@@ -198,6 +242,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[11]Container With Most Water.java" />
               <option name="titleSlug" value="container-with-most-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[120]Triangle.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[120]Triangle.md" />
+              <option name="frontendQuestionId" value="leetcode.com120" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[120]Triangle.java" />
+              <option name="titleSlug" value="triangle" />
             </LeetcodeEditor>
           </value>
         </entry>
