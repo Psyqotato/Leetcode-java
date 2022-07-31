@@ -1,10 +1,11 @@
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public boolean isHappy(int n) {
-        List<Integer> notHappy = new ArrayList<>();
+        HashSet<Integer> notHappy = new HashSet<>();
         while (!notHappy.contains(n)) {
             notHappy.add(n);
             n = replaceNumber(n);
