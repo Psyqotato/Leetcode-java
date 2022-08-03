@@ -784,6 +784,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[199]Binary Tree Right Side View.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[199]Binary Tree Right Side View.md" />
+              <option name="frontendQuestionId" value="leetcode.com199" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[199]Binary Tree Right Side View.java" />
+              <option name="titleSlug" value="binary-tree-right-side-view" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[19]Remove Nth Node From End of List.java">
           <value>
             <LeetcodeEditor>
@@ -806,6 +817,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[200]Number of Islands.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[200]Number of Islands.md" />
+              <option name="frontendQuestionId" value="leetcode.com200" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[200]Number of Islands.java" />
+              <option name="titleSlug" value="number-of-islands" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[202]Happy Number.java">
           <value>
             <LeetcodeEditor>
@@ -814,6 +836,39 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[202]Happy Number.java" />
               <option name="titleSlug" value="happy-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[206]Reverse Linked List.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[206]Reverse Linked List.md" />
+              <option name="frontendQuestionId" value="leetcode.com206" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[206]Reverse Linked List.java" />
+              <option name="titleSlug" value="reverse-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[207]Course Schedule.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[207]Course Schedule.md" />
+              <option name="frontendQuestionId" value="leetcode.com207" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[207]Course Schedule.java" />
+              <option name="titleSlug" value="course-schedule" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[208]Implement Trie (Prefix Tree).java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[208]Implement Trie (Prefix Tree).md" />
+              <option name="frontendQuestionId" value="leetcode.com208" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[208]Implement Trie (Prefix Tree).java" />
+              <option name="titleSlug" value="implement-trie-prefix-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -847,6 +902,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[22]Generate Parentheses.java" />
               <option name="titleSlug" value="generate-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[234]Palindrome Linked List.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/doc/content/[234]Palindrome Linked List.md" />
+              <option name="frontendQuestionId" value="leetcode.com234" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../08.Tools/JetBrainsTemp/leetcode/editor/en/[234]Palindrome Linked List.java" />
+              <option name="titleSlug" value="palindrome-linked-list" />
             </LeetcodeEditor>
           </value>
         </entry>
