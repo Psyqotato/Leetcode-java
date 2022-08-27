@@ -31,7 +31,7 @@ class Solution {
         }
 
         int[] result = new int[k];
-        for (int i = 0; i < k; i++) {
+        for (int i = k - 1; i >= 0; i--) {
             result[i] = pq.poll()[0];
         }
         return result;
