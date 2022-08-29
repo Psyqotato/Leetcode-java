@@ -13,10 +13,10 @@ class Solution {
             return 1;
         }
         while (i != 0) {
-            result = Math.min(result, 1 + numSq(n - i * i));
+            result = Math.min(result, numSq(n - i * i));
             i--;
         }
-        memo[n] = result;
-        return result;
+        memo[n] = result + 1;
+        return memo[n];
     }
 }
