@@ -20,6 +20,5 @@ class Solution {
             temp.next = head;
             return temp;
         }
-
     }
 }
