@@ -19,11 +19,17 @@ class Solution {
         for (int i = 0; i < len; i++) {
             if (nums1[start1 + i] == nums2[start2 + i]) {
                 count++;
-            }else{
+            }else if (count > 0){
+                result = Math.max(result, count);
                 count = 0;
             }
-            result = Math.max(result, count);
         }
-        return result;
+        return (count > 0)? Math.max(result, count) : result;
+//            }else{
+//                count = 0;
+//            }
+//            result = Math.max(result, count);
+//        }
+//        return result;
     }
 }
